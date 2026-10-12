@@ -1,2 +1,3 @@
-# pz4-git-practice
-pz4 mobil Poluda Elizaveta pr-24.101
+# Практическое занятие 4
+Репозиторий для отработки работы с Git и GitHub.
+Полуда Елизавета ПР-24.101
